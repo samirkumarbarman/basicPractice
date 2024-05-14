@@ -1,0 +1,45 @@
+html{
+    margin: 0;
+}
+
+span{
+    display: block;
+    align-items: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.button{
+    height: 50vb;
+    width: 50vb;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#lightgreen{
+    background: lightgreen;
+}
+
+#maroon{
+    background: maroon;
+}
+
+#royalblue{
+    background: royalblue;
+}
+
+#lavender{
+    background: lavender;
+}
